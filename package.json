@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.2"
+  },
+  "name": "curso-node",
+  "version": "0.0.1",
+  "description": "aprendiendo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [
+    "curso",
+    "de",
+    "node",
+    "aprendiendo",
+    "javascript",
+    "del",
+    "lado",
+    "del",
+    "cliente"
+  ],
+  "author": "Sofia",
+  "license": "ISC"
+}

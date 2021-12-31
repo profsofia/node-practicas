@@ -1,0 +1,1 @@
+linea uno de texto con módulos de terceros
